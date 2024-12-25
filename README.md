@@ -1,1 +1,1 @@
-# Bernini Game Engine
+# CloseUP - High Resolution Screenshots
